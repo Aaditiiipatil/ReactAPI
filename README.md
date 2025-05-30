@@ -16,7 +16,6 @@ The trivia is fetched using the public [Numbers API](http://numbersapi.com/).
 ## 🛠️ Technologies Used
 
 - React (Functional Components & Hooks)
-- Fetch API
 - Numbers API (http://numbersapi.com)
 
 ## 📦 Getting Started
